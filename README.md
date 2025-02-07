@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**kundkingan/kundkingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <a href="https://www.linkedin.com/in/david-andersson-191413a5">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## I am David Andersson
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Site Reliability Engineer at [GetAccept](https://www.getaccept.com/)
+
+![Metrics](https://raw.githubusercontent.com/kundkingan/kundkingan/refs/heads/main/github-metrics.svg)
