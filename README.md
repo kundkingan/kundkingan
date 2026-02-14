@@ -8,6 +8,6 @@
 
 ## I am David Andersson
 
-- Site Reliability Engineer at [GetAccept](https://www.getaccept.com/)
+- Engineering Lead at [GetAccept](https://www.getaccept.com/)
 
 ![Metrics](https://raw.githubusercontent.com/kundkingan/kundkingan/refs/heads/main/github-metrics.svg)
