@@ -10,4 +10,8 @@
 
 - Engineering Lead at [GetAccept](https://www.getaccept.com/)
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/kundkingan/svg?compact=1)](https://tokscale.ai/u/kundkingan)
+
 ![Metrics](https://raw.githubusercontent.com/kundkingan/kundkingan/refs/heads/main/github-metrics.svg)
+
+
